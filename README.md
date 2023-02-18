@@ -1,6 +1,6 @@
 :sunny: Hi there, I'm Thy (Tee)
 
-:snowflake: I have experience in ReacJS, NodeJS, ExpressJS, Spline3D, Django, Flask and Websockets
+:snowflake: I have experience in ReacJS, NodeJS, ExpressJS, Flask, Websockets and Spline3D
 
 :cloud: I’m currently learning Threejs, Data structures & Algorithm
 
