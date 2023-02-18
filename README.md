@@ -9,6 +9,4 @@
 :zap: Happy to collab on anything fun!
 
 
-![Thy's GitHub stats](https://github-readme-stats.vercel.app/api?username=teedrm&theme=graywhite&show_icons=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teedrm&layout=compact)](https://github.com/teedrm/github-readme-stats)
