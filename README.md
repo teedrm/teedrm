@@ -9,4 +9,3 @@
 :zap: Happy to collab on anything fun!
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teedrm&layout=compact)](https://github.com/teedrm/github-readme-stats)
